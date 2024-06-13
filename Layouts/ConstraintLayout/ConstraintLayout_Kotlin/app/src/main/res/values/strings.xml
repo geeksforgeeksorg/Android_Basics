@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConstraintLayout_Kotlin</string>
+    <string name="Image1_Description">Image representation of GFG logo</string>
+    <string name="text_value">Geeks for Geeks</string>
+</resources>
